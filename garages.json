@@ -4,139 +4,261 @@
       "name": "AutoCare Colombo",
       "latitude": 6.9271,
       "longitude": 79.8612,
-      "phone": "+94771234567"
+      "phone": "+94771234567",
+      "garageType": "Car & Hybrid",
+      "services": ["Oil Change", "Engine Diagnostics", "Brake Service", "AC Repair"],
+      "address": "45 Galle Road, Colombo 03, Western Province",
+      "description": "AutoCare Colombo offers premium hybrid and car maintenance with expert mechanics and rapid diagnostics services in the heart of Colombo."
     },
     {
       "name": "Super Auto Garage - Kandy",
       "latitude": 7.2906,
       "longitude": 80.6337,
-      "phone": "+94775678901"
+      "phone": "+94775678901",
+      "garageType": "Car & Motorbike",
+      "services": ["Engine Tuning", "Tire Replacement", "Battery Check", "Suspension Work"],
+      "address": "82 Peradeniya Road, Kandy, Central Province",
+      "description": "Known for fast service and reliable repairs, Super Auto Garage in Kandy specializes in both motorbike and car repairs with modern tools."
     },
     {
       "name": "Jaffna Auto Repairs",
       "latitude": 9.6615,
       "longitude": 80.0255,
-      "phone": "+94772345678"
+      "phone": "+94772345678",
+      "garageType": "Car",
+      "services": ["Brake Repair", "Battery Replacement", "Clutch Repair", "Paint Touch-ups"],
+      "address": "12 Kasthuriyar Road, Jaffna, Northern Province",
+      "description": "Jaffna Auto Repairs provides affordable and quality vehicle services, trusted for years by locals for quick fixes and custom paint jobs."
     },
     {
       "name": "Galle Vehicle Service",
       "latitude": 6.0326,
       "longitude": 80.2168,
-      "phone": "+94773456789"
+      "phone": "+94773456789",
+      "garageType": "Car & Truck",
+      "services": ["General Service", "Oil Change", "Gearbox Repair", "Full Body Wash"],
+      "address": "205 Matara Road, Galle, Southern Province",
+      "description": "Located near the highway, Galle Vehicle Service caters to both light and heavy vehicles with comprehensive servicing and cleaning."
     },
     {
       "name": "Matara Auto Works",
       "latitude": 5.9549,
       "longitude": 80.5549,
-      "phone": "+94774567890"
+      "phone": "+94774567890",
+      "garageType": "Car & Van",
+      "services": ["Battery Service", "Engine Repair", "AC Service", "Interior Cleaning"],
+      "address": "77 Beach Road, Matara, Southern Province",
+      "description": "Matara Auto Works blends local expertise with modern diagnostics to provide high-quality van and car servicing near the coastal belt."
     },
     {
       "name": "Kurunegala Car Fix",
       "latitude": 7.4863,
       "longitude": 80.3623,
-      "phone": "+94775678912"
+      "phone": "+94775678912",
+      "garageType": "Car & Jeep",
+      "services": ["Suspension Repair", "Tire Alignment", "Brake Oil Replacement", "Engine Diagnostics"],
+      "address": "134 Colombo Road, Kurunegala, North Western Province",
+      "description": "Kurunegala Car Fix is trusted for SUV and jeep servicing, offering deep diagnostics and strong suspension repair solutions."
     },
     {
       "name": "Negombo Auto Clinic",
       "latitude": 7.2083,
       "longitude": 79.8358,
-      "phone": "+94776789012"
+      "phone": "+94776789012",
+      "garageType": "Car & Electric Vehicle",
+      "services": ["EV Charging", "Software Diagnostics", "Tire Service", "Brake Check"],
+      "address": "56 Negombo-Colombo Main Road, Negombo, Western Province",
+      "description": "Negombo Auto Clinic stands out with electric vehicle support, offering smart software diagnostics and EV charging services."
     },
     {
       "name": "Ratnapura Auto Solutions",
       "latitude": 6.7056,
       "longitude": 80.3847,
-      "phone": "+94777890123"
+      "phone": "+94777890123",
+      "garageType": "Car & Motorbike",
+      "services": ["Chain Adjustment", "Engine Oil Change", "Headlight Fixing", "Tune-Ups"],
+      "address": "198 Main Street, Ratnapura, Sabaragamuwa Province",
+      "description": "Serving both motorbikes and cars, this garage in Ratnapura is known for cost-effective tune-ups and high-speed repairs."
     },
     {
       "name": "Anuradhapura Car Care",
       "latitude": 8.3121,
       "longitude": 80.4131,
-      "phone": "+94778901234"
+      "phone": "+94778901234",
+      "garageType": "Car",
+      "services": ["AC Repair", "Brake Check", "Oil Filter Replacement", "General Service"],
+      "address": "90 Mihintale Road, Anuradhapura, North Central Province",
+      "description": "Anuradhapura Car Care offers honest, timely repairs with experienced technicians focused on customer trust and comfort."
     },
     {
       "name": "Batticaloa Auto Fix",
       "latitude": 7.7175,
       "longitude": 81.6924,
-      "phone": "+94779012345"
+      "phone": "+94779012345",
+      "garageType": "Car & Van",
+      "services": ["Cooling System Repair", "Gearbox Check", "Exhaust Repair", "Radiator Flush"],
+      "address": "66 Trinco Road, Batticaloa, Eastern Province",
+      "description": "Batticaloa Auto Fix is ideal for cooling and gearbox-related issues, with mechanics trained in both petrol and diesel systems."
     },
     {
       "name": "Veyangoda Auto Service",
       "latitude": 6.9784,
       "longitude": 80.1328,
-      "phone": "+94777123456"
+      "phone": "+94777123456",
+      "garageType": "Car & Lorry",
+      "services": ["Tire Rotation", "Lorry Service", "Hydraulic Service", "General Maintenance"],
+      "address": "21 Nittambuwa Road, Veyangoda, Western Province",
+      "description": "Well-equipped for heavy-duty work, Veyangoda Auto Service provides top-notch lorry and vehicle servicing with quick turnaround."
     },
     {
       "name": "Veyangoda Nisal Car Service",
       "latitude": 7.1482143,
       "longitude": 80.0706646,
-      "phone": "+94777123456"
+      "phone": "+94777123456",
+      "garageType": "Car & SUV",
+      "services": ["Premium Wash", "Interior Polishing", "Wheel Alignment", "Tune-Ups"],
+      "address": "No. 9, Wathupitiwala Road, Veyangoda, Western Province",
+      "description": "A favorite for cosmetic and luxury servicing, Nisal Car Service offers polishing, alignment, and precision tune-ups in Veyangoda."
     },
     {
       "name": "Garage, SUSL",
       "latitude": 6.7141,
       "longitude": 80.7903,
-      "phone": "+94777123456"
+      "phone": "+94777123456",
+      "garageType": "Car",
+      "services": ["General Service", "Oil Change", "Brake Inspection", "Engine Diagnostics"],
+      "address": "Sabaragamuwa University, Belihuloya, Sabaragamuwa Province",
+      "description": "Located on the SUSL campus, this garage offers essential vehicle maintenance services primarily for campus community vehicles."
     },
     {
       "name": "Auto Mart Service Station",
       "latitude": 6.7175,
       "longitude": 80.3833,
-      "phone": "+94452255025"
+      "phone": "+94452255025",
+      "garageType": "Car & Hybrid",
+      "services": ["Full Vehicle Service", "Hybrid Battery Rebuilding", "Wheel Alignment", "Engine Tune-Up"],
+      "address": "No. 270, Kandy Road, Gelioya, Kandy",
+      "description": "Auto Mart Service Station is a fully equipped service center offering comprehensive vehicle maintenance and advanced hybrid battery services."
     },
     {
       "name": "Madusanka Service Center",
       "latitude": 6.7160,
       "longitude": 80.7890,
-      "phone": "+94765816855"
+      "phone": "+94765816855",
+      "garageType": "Car & Motorbike",
+      "services": ["Engine Repair", "Brake Service", "Oil Change", "General Maintenance"],
+      "address": "Belihuloya, Sabaragamuwa Province",
+      "description": "Madusanka Service Center provides quality repair services for both cars and motorbikes, backed by a reputation for reliability."
     },
     {
       "name": "Jayasiri Auto Parts (Pvt) Ltd",
       "latitude": 7.2511,
       "longitude": 80.4405,
-      "phone": "+94352248972"
+      "phone": "+94352248972",
+      "garageType": "Auto Parts Supplier",
+      "services": ["Spare Parts Sales", "Engine Components", "Brake Systems", "Suspension Parts"],
+      "address": "Kurunegala Road, Kegalle, Sabaragamuwa Province",
+      "description": "Jayasiri Auto Parts supplies a wide range of quality auto parts and components to keep your vehicle running smoothly."
     },
     {
       "name": "Premadasa Garage",
       "latitude": 7.2511,
       "longitude": 80.4405,
-      "phone": "+94112478709"
+      "phone": "+94112478709",
+      "garageType": "Car",
+      "services": ["Engine Repair", "Brake Service", "Oil Change", "General Maintenance"],
+      "address": "Kurunegala Road, Kegalle, Sabaragamuwa Province",
+      "description": "Premadasa Garage specializes in comprehensive car repair services with a strong emphasis on quality and timely maintenance."
     },
     {
       "name": "Rathnaweera Auto Care",
       "latitude": 6.3385,
       "longitude": 80.8485,
-      "phone": "+94768223055"
+      "phone": "+94768223055",
+      "garageType": "Car & Van",
+      "services": ["Engine Diagnostics", "Brake Service", "Oil Change", "AC Repair"],
+      "address": "Deniyaya Road, Akuressa, Southern Province",
+      "description": "Rathnaweera Auto Care ensures efficient and reliable auto services for both cars and vans with a focus on customer satisfaction."
     },
     {
       "name": "Sarathchandra Motors",
       "latitude": 6.3380,
       "longitude": 80.8480,
-      "phone": "+94704016000"
+      "phone": "+94704016000",
+      "garageType": "Car & Truck",
+      "services": ["Transmission Repair", "Brake Replacement", "Tire Balancing", "Engine Overhaul"],
+      "address": "Main Road, Akuressa, Southern Province",
+      "description": "Sarathchandra Motors is dedicated to vehicle longevity, specializing in transmission and engine repairs for both cars and trucks."
     },
     {
       "name": "Ruwanpura Auto Engineering",
       "latitude": 6.6820,
       "longitude": 80.3990,
-      "phone": "+94452233463"
+      "phone": "+94452233463",
+      "garageType": "Engineering & Repair",
+      "services": ["Chassis Repair", "Electrical Diagnostics", "Suspension Repair", "Custom Fabrication"],
+      "address": "No. 10, Ruwanpura Road, Gampaha, Western Province",
+      "description": "Ruwanpura Auto Engineering provides specialized engineering services with custom repair solutions for diverse vehicle problems."
     },
     {
       "name": "Kegalu Motor Stores",
       "latitude": 7.2510,
       "longitude": 80.3460,
-      "phone": "+94352230836"
+      "phone": "+94352230836",
+      "garageType": "Auto Parts & Service",
+      "services": ["Spare Parts", "Battery Replacement", "Brake Assembly", "Oil Service"],
+      "address": "Kegalle Town Center, Sabaragamuwa Province",
+      "description": "Kegalu Motor Stores is known for offering high-quality motor parts alongside reliable and quick automotive services."
     },
     {
       "name": "Nihal Motors",
       "latitude": 6.6620,
       "longitude": 80.6950,
-      "phone": "+94722813618"
+      "phone": "+94722813618",
+      "garageType": "Car & SUV",
+      "services": ["Engine Repair", "AC Service", "Tire Replacement", "Battery Check"],
+      "address": "No. 12, Main Street, Kegalle, Sabaragamuwa Province",
+      "description": "Nihal Motors specializes in servicing cars and SUVs with a focus on engine health and interior comfort."
     },
     {
       "name": "Dayara Auto Engineers PVT LTD",
       "latitude": 6.6620,
       "longitude": 80.6950,
-      "phone": "+94775561680"
+      "phone": "+94775561680",
+      "garageType": "Auto Engineering",
+      "services": ["Complete Overhauls", "Engine Rebuilding", "Chassis Alignment", "Electrical Work"],
+      "address": "Industrial Zone, Kegalle, Sabaragamuwa Province",
+      "description": "Dayara Auto Engineers offers complete auto engineering services, from engine rebuilding to precise chassis alignment."
+    },
+    {
+      "name": "Dagrarian Service Center Pambahinna",
+      "latitude": 6.8160,
+      "longitude": 81.7890,
+      "phone": "+94760816855",
+      "garageType": "Car & Agricultural Vehicles",
+      "services": ["Diesel Engine Service", "Tire Repair", "Brake Adjustment", "General Maintenance"],
+      "address": "Pambahinna, Eastern Province",
+      "description": "Specializing in both regular cars and agricultural vehicles, Dagrarian Service Center provides robust maintenance in rural areas."
+    },
+    {
+      "name": "Tharanga Service station",
+      "latitude": 6.7111,
+      "longitude": 80.7903,
+      "phone": "+94761874855",
+      "garageType": "Car & Motorcycle",
+      "services": ["Quick Oil Change", "Brake Inspection", "Battery Service", "General Checkup"],
+      "address": "Tharanga Road, Belihuloya, Sabaragamuwa Province",
+      "description": "Tharanga Service Station offers prompt and efficient car and motorcycle maintenance services for local commuters."
+    },
+    {
+      "name": "Suresh Service station",
+      "latitude": 6.7054,
+      "longitude": 80.7880,
+      "phone": "+94761814855",
+      "garageType": "Car Service Center",
+      "services": ["Routine Maintenance", "Engine Diagnostics", "Tire Rotation", "Brake Service"],
+      "address": "Service Lane, Belihuloya, Sabaragamuwa Province",
+      "description": "Suresh Service Station is a trusted center for routine auto maintenance and fast repairs, ensuring minimal downtime for your vehicle."
     }
   ]
 }
